@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Balamurali
 
-💼 *Tech Professional | Aspiring Business Analyst | MBA |Engineering*  
+💼 *Tech Professional | Aspiring Business Analyst | MBA | Engineering*  
 
 ---
 
@@ -25,19 +25,6 @@ With my **technical background** + **growing business acumen**, I aim to **bridg
 
 ---
 
-## 📊 GitHub Highlights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=copernicuss&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=copernicuss&theme=tokyonight" alt="GitHub Streak" />
-</p>  
-
----
-
-## 📂 Featured Projects  
-🔹 [📊 Business Insights Dashboard (PowerBI)](#)  
-🔹 [📑 BA Techniques Practice Repo](#)  
-
----
 
 ## 🌍 Beyond Work  
 - 🌱 Constant learner, currently diving deeper into **BA best practices**  
@@ -48,10 +35,10 @@ With my **technical background** + **growing business acumen**, I aim to **bridg
 
 ## 🤝 Let’s Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/s-balamurali/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:YOURMAIL@gmail.com">
+  <a href="mailto:sbalamurali2k@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 </p>  
