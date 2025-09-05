@@ -11,7 +11,9 @@ I’m an **experienced professional transitioning into Business Analysis** with 
 - 📌 **Requirements Gathering & Analysis**  
 - 🛠️ **Process Modeling & Optimization**  
 - 🤝 **Stakeholder Communication & Collaboration**  
-
+- 👨‍💻 **Business Analysis**
+- 🛜 **Database Operations**
+- 🌐 **Cloud Computing**
 With my **technical background** + **growing business acumen**, I aim to **bridge the gap between technology and strategy** to deliver impactful solutions.  
 
 ---
