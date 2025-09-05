@@ -14,6 +14,8 @@ I’m an **experienced professional transitioning into Business Analysis** with 
 - 👨‍💻 **Business Analysis**
 - 🛜 **Database Operations**
 - 🌐 **Cloud Computing**
+
+---
 With my **technical background** + **growing business acumen**, I aim to **bridge the gap between technology and strategy** to deliver impactful solutions.  
 
 ---
